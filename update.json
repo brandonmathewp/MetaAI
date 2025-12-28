@@ -1,3 +1,3 @@
 {
-  "changes": "• Fixed Auth System bugs\n• New Neon Cyberpunk Update Downloader\n• Improved Persona Editor\n• Fixed Chat Metadata loading crash\n• Fixed Auto-Update detection logic"
+  "changes": "• Added Core Memories (Global Knowledge)\n• Added Real-World Time & Date Awareness\n• Fixed Edit & Regenerate streaming bug\n• Improved Context Injection"
 }
