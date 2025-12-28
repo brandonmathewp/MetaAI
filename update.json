@@ -1,3 +1,4 @@
 {
-  "changes": "• Added Core Memories (Global Knowledge)\n• Added Real-World Time & Date Awareness\n• Fixed Edit & Regenerate streaming bug\n• Improved Context Injection"
+  "messages": "Major Update: We've added DeepSeek & Devstral models, fixed the login crash, and introduced Core Memories!",
+  "changes": "• New Models: DeepSeek V3.1, R1 Chimera, and Devstral\n• Added Core Memories (Global persistent facts)\n• Added Real-World Time & Date awareness\n• Fixed critical security crash & login bypass\n• Upgraded Auth System to v1.3"
 }
