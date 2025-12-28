@@ -1,3 +1,3 @@
 {
-  "changes": "• Added new Meta Max Model\n• Fixed Persona saving bug\n• Improved dark mode UI"
+  "changes": "• Fixed Auth System bugs\n• New Neon Cyberpunk Update Downloader\n• Improved Persona Editor\n• Fixed Chat Metadata loading crash\n• Fixed Auto-Update detection logic"
 }
